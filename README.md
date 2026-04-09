@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/xmg2024/nvwa-skill)
 
 <br>
 
@@ -121,7 +121,7 @@
 ## 安装
 
 ```bash
-npx skills add alchaincyf/taleb-skill
+npx skills add xmg2024/taleb-skill
 ```
 
 然后在 Claude Code 里：
@@ -209,14 +209,14 @@ Allen Farrington "A Tale of Two Talebs" · Steven Pinker逐条反驳 · Daniel K
 
 ## 这个Skill是怎么造出来的
 
-由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 自动生成。
+由 [女娲.skill](https://github.com/xmg2024/nvwa-skill) 自动生成。
 
 女娲的工作流程：输入一个名字 → 多个Agent并行调研（著作/对话/表达/批评/决策）→ 交叉验证提炼心智模型 → 构建SKILL.md → 质量验证。
 
 想蒸馏其他人？安装女娲：
 
 ```bash
-npx skills add alchaincyf/nuwa-skill
+npx skills add xmg2024/nvwa-skill
 ```
 
 然后说「蒸馏一个XXX」就行了。
@@ -249,14 +249,14 @@ taleb-skill/
 
 | 人物 | 领域 | 安装 |
 |------|------|------|
-| [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) | 产品/设计/战略 | `npx skills add alchaincyf/steve-jobs-skill` |
-| [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) | 工程/成本/第一性原理 | `npx skills add alchaincyf/elon-musk-skill` |
-| [纳瓦尔.skill](https://github.com/alchaincyf/naval-skill) | 财富/杠杆/人生哲学 | `npx skills add alchaincyf/naval-skill` |
-| [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投资/多元思维/逆向思考 | `npx skills add alchaincyf/munger-skill` |
-| [费曼.skill](https://github.com/alchaincyf/feynman-skill) | 学习/教学/科学思维 | `npx skills add alchaincyf/feynman-skill` |
-| [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 教育/职业规划/阶层流动 | `npx skills add alchaincyf/zhangxuefeng-skill` |
+| [乔布斯.skill](https://github.com/xmg2024/steve-jobs-skill) | 产品/设计/战略 | `npx skills add xmg2024/steve-jobs-skill` |
+| [马斯克.skill](https://github.com/xmg2024/elon-musk-skill) | 工程/成本/第一性原理 | `npx skills add xmg2024/elon-musk-skill` |
+| [纳瓦尔.skill](https://github.com/xmg2024/naval-skill) | 财富/杠杆/人生哲学 | `npx skills add xmg2024/naval-skill` |
+| [芒格.skill](https://github.com/xmg2024/munger-skill) | 投资/多元思维/逆向思考 | `npx skills add xmg2024/munger-skill` |
+| [费曼.skill](https://github.com/xmg2024/feynman-skill) | 学习/教学/科学思维 | `npx skills add xmg2024/feynman-skill` |
+| [张雪峰.skill](https://github.com/xmg2024/zhangxuefeng-skill) | 教育/职业规划/阶层流动 | `npx skills add xmg2024/zhangxuefeng-skill` |
 
-想蒸馏更多人？用 [女娲.skill](https://github.com/alchaincyf/nuwa-skill)，输入任何名字即可。
+想蒸馏更多人？用 [女娲.skill](https://github.com/xmg2024/nvwa-skill)，输入任何名字即可。
 
 ## 许可证
 
@@ -270,7 +270,7 @@ MIT — 随便用，随便改，随便蒸馏。
 
 ## 关于作者
 
-**花叔 Huashu** — AI Native Coder
+**小码哥 xmg2024** — AI Native Coder
 
 <div align="center">
 
@@ -278,8 +278,8 @@ MIT — 随便用，随便改，随便蒸馏。
 
 <br>
 
-MIT License &copy; [花叔 Huashu](https://github.com/alchaincyf)
+MIT License &copy; [小码哥 xmg2024](https://github.com/xmg2024)
 
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+Made with [女娲.skill](https://github.com/xmg2024/nvwa-skill)
 
 </div>
